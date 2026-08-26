@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c1",
+    "name": "Alex Mercer",
+    "avatar": "https://i.pravatar.cc/150?u=c1",
+    "bio": "Exploring the cutting edge of AI and technology.",
+    "subscribers": "1.2M"
+  },
+  {
+    "id": "c2",
+    "name": "Sarah Chen",
+    "avatar": "https://i.pravatar.cc/150?u=c2",
+    "bio": "Design, UI/UX, and everything in between.",
+    "subscribers": "850K"
+  },
+  {
+    "id": "c3",
+    "name": "David Kim",
+    "avatar": "https://i.pravatar.cc/150?u=c3",
+    "bio": "Cinematography and visual storytelling.",
+    "subscribers": "2.1M"
+  },
+  {
+    "id": "c4",
+    "name": "Elena Rodriguez",
+    "avatar": "https://i.pravatar.cc/150?u=c4",
+    "bio": "Indie game development tutorials.",
+    "subscribers": "420K"
+  },
+  {
+    "id": "c5",
+    "name": "Marcus Johnson",
+    "avatar": "https://i.pravatar.cc/150?u=c5",
+    "bio": "Music production and beat breakdowns.",
+    "subscribers": "930K"
+  }
+]

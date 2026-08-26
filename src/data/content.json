@@ -1,0 +1,90 @@
+[
+  {
+    "id": "v1",
+    "title": "The Future of Generative AI",
+    "thumbnail": "https://picsum.photos/seed/v1/640/360",
+    "creatorId": "c1",
+    "views": "450K",
+    "duration": "12:34",
+    "category": "Technology",
+    "description": "A deep dive into how generative models are evolving and what it means for creators.",
+    "aiInsight": "98% match. You recently watched 3 videos on neural networks."
+  },
+  {
+    "id": "v2",
+    "title": "Mastering UI/UX in 2026",
+    "thumbnail": "https://picsum.photos/seed/v2/640/360",
+    "creatorId": "c2",
+    "views": "210K",
+    "duration": "08:15",
+    "category": "Design",
+    "description": "Top trends and tools you need to know for modern interface design.",
+    "aiInsight": "Trending in your region among designers."
+  },
+  {
+    "id": "v3",
+    "title": "Cinematic Lighting Techniques",
+    "thumbnail": "https://picsum.photos/seed/v3/640/360",
+    "creatorId": "c3",
+    "views": "1.1M",
+    "duration": "18:20",
+    "category": "Film",
+    "description": "Learn how to light a scene like a Hollywood professional on a budget.",
+    "aiInsight": "Highly rated by users interested in Filmmaking."
+  },
+  {
+    "id": "v4",
+    "title": "Build a Retro Game in Unity",
+    "thumbnail": "https://picsum.photos/seed/v4/640/360",
+    "creatorId": "c4",
+    "views": "85K",
+    "duration": "25:40",
+    "category": "Gaming",
+    "description": "Step-by-step guide to creating your first pixel-art platformer.",
+    "aiInsight": "A great starting point based on your 'Unity Basics' search."
+  },
+  {
+    "id": "v5",
+    "title": "Lo-Fi Hip Hop Beat Breakdown",
+    "thumbnail": "https://picsum.photos/seed/v5/640/360",
+    "creatorId": "c5",
+    "views": "320K",
+    "duration": "10:05",
+    "category": "Music",
+    "description": "Deconstructing a chill lo-fi track in Ableton Live.",
+    "aiInsight": "90% match. We noticed you listen to Lo-Fi while working."
+  },
+  {
+    "id": "v6",
+    "title": "AI in Video Games: The Next Leap",
+    "thumbnail": "https://picsum.photos/seed/v6/640/360",
+    "creatorId": "c1",
+    "views": "670K",
+    "duration": "15:30",
+    "category": "Technology",
+    "description": "How NPCs are getting smarter using LLMs and advanced behavior trees.",
+    "aiInsight": "Top pick based on your interest in AI and Gaming."
+  },
+  {
+    "id": "v7",
+    "title": "Minimalist Web Design Patterns",
+    "thumbnail": "https://picsum.photos/seed/v7/640/360",
+    "creatorId": "c2",
+    "views": "150K",
+    "duration": "07:45",
+    "category": "Design",
+    "description": "Why less is more when it comes to high-converting landing pages.",
+    "aiInsight": "Recommended to improve your portfolio design skills."
+  },
+  {
+    "id": "v8",
+    "title": "Color Grading Like a Pro",
+    "thumbnail": "https://picsum.photos/seed/v8/640/360",
+    "creatorId": "c3",
+    "views": "890K",
+    "duration": "14:10",
+    "category": "Film",
+    "description": "A comprehensive guide to DaVinci Resolve color grading.",
+    "aiInsight": "You liked 5 videos from David Kim. Here's his latest."
+  }
+]
