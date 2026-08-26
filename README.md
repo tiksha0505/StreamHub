@@ -98,7 +98,3 @@ Built and tested with `npm run build` + `npm run preview`, verified with Lightho
 This is a front-end-only project — all content/creator data is local mock JSON, and the "AI Insight" feature is a simulated/static demonstration of the concept rather than a live model integration.
 
 ---
-
-## 📄 License
-
-MIT
