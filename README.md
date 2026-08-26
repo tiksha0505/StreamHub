@@ -6,7 +6,7 @@ A responsive, front-end-only content discovery platform inspired by the modern s
 
 ---
 
-## ✨ Features
+## Features
 
 - **Discovery Feed** — Responsive content grid with category filtering and live search
 - **AI Smart Hover** — Glassmorphic overlay on content cards revealing an AI-style insight ("95% match based on your watch history")
@@ -18,7 +18,7 @@ A responsive, front-end-only content discovery platform inspired by the modern s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -34,7 +34,7 @@ No paid APIs, no backend, no database — everything runs client-side on mock da
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -63,7 +63,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repo
@@ -87,13 +87,13 @@ Visit `http://localhost:5173` in your browser.
 
 ---
 
-## 📊 Performance
+## Performance
 
 Built and tested with `npm run build` + `npm run preview`, verified with Lighthouse (target: 90+ performance score). Optimizations include lazy-loaded images, route-based code splitting, and skeleton loading states to reduce perceived load time.
 
 ---
 
-## 📝 Notes
+## Notes
 
 This is a front-end-only project — all content/creator data is local mock JSON, and the "AI Insight" feature is a simulated/static demonstration of the concept rather than a live model integration.
 
